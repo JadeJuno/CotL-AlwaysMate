@@ -1,6 +1,6 @@
 {
   "namespace": "JadeJuno",
-  "name": "Always Mate",
+  "name": "AlwaysMate",
   "description": "Allows all followers to mate with each other 100% of the time. No RNG applied.",
   "version_number": "1.0.0",
   "dependencies": [

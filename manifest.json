@@ -1,11 +1,11 @@
 {
   "namespace": "JadeJuno",
   "name": "Always Mate",
-  "description": "Allows all followers to mate with each other 100% of the time. No RNG applies.",
+  "description": "Allows all followers to mate with each other 100% of the time. No RNG applied.",
   "version_number": "1.0.0",
   "dependencies": [
     "BepInEx-BepInExPack_CultOfTheLamb-5.4.21",
     "API_dev-COTL_API-1.0.0"
   ],
-  "website_url": "https://github.com/JadeJuno/"
+  "website_url": "https://github.com/JadeJuno/CotL-AlwaysMate"
 }

@@ -29,4 +29,8 @@
         <PackageReference Include="COTL_API" Version="0.1.20" />
     </ItemGroup>
 
+    <ItemGroup>
+        <None Include="$(SolutionDir)manifest.json" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
+
 </Project>
